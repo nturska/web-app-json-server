@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Element 1",
+      "isComplete": false
+    }
+  ],
+  "profile": {
+    "name": "nturska"
+  }
+}
